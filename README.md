@@ -1,2 +1,1 @@
-# Clipper
-Clipper cryptomonnaie python
+# python
